@@ -1,4 +1,4 @@
-content = """# Java OOP Roadmap
+# Java OOP Roadmap
 
 A structured roadmap to master **Object-Oriented Programming in Java** before starting SOLID principles.
 
